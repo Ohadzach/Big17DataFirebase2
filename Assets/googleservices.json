@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "998100537046",
+    "project_id": "ohad1-fab79",
+    "storage_bucket": "ohad1-fab79.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998100537046:android:fd4f377861951441470377",
+        "android_client_info": {
+          "package_name": "com.companyname.big17datafirebase2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqkm4vPufk9NBT41Bd4YD3I3wxd6NHnac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998100537046:android:d3116c9bdb6a678e470377",
+        "android_client_info": {
+          "package_name": "com.companyname.ohadfinal1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqkm4vPufk9NBT41Bd4YD3I3wxd6NHnac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
